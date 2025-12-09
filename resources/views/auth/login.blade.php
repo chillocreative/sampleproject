@@ -123,6 +123,12 @@
                     @lang('app.signUpAsClient')
                 </a>
             @endif
+
+            <div class="mt-4 text-center">
+                <h6 class="mb-2">For Demo Purposes</h6>
+                <p class="mb-0 f-13"><strong>Admin:</strong> admin@example.com / 123456</p>
+                <p class="mb-0 f-13"><strong>Employee:</strong> employee@example.com / 123456</p>
+            </div>
         </div>
 
         <input type="hidden" name="locale" value="{{ session()->has('locale') ? session('locale') : global_setting()->locale }}">
