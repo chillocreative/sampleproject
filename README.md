@@ -54,3 +54,5 @@
         <strong>Cropper.js</strong> - <a href="https://github.com/fengyuanchen/cropperjs">https://github.com/fengyuanchen/cropperjs</a>
     </li>
 </ol>
+
+Opis Mantop test - 2026-10-13
